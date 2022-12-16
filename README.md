@@ -1,2 +1,2 @@
-Open cv tree with
-Just python
+Open cv tree
+Just python.
